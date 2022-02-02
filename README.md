@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align='center'><h1> Hello 👋</h1></div>
+<div align="center">
+<a href="https://leetcode.com/anoopjhaa/" target="_blank" rel="nofollow"><img align="right" alt="Anoop's LeetCode" width="22px" src="https://simpleicons.org/icons/leetcode.svg" /></a><a href="https://www.linkedin.com/in/anoopjhaa" target="_blank" rel="nofollow"><img align="right" alt="Anoop's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+</div>
 
-<!--
-**anoopjhaa/anoopjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-Here are some ideas to get you started:
+- :school: I'm [Anoop Kumar](https://anoopjhaa.github.io/) currently a Third Year CSE student at <a href="https://cmrcet.ac.in/">@CMRCET  </a>
+- 🔭 I’m currently working on  **Problem Solving**
+- :neutral_face: I have a **love/hate** relationship with **Programming**
+- 🌱 I’m currently learning **Data Analysis with Python**
+- 🤔 I’m looking for help with Web Development 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- :bulb: Occasionaly I do participate in **Hackathons**
+- 🌐 Visit my [porfolio website](https://anoopjhaa.github.io/) for complete background and contact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
