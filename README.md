@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
-- 🌐 Visit my [porfolio website](https://anoopjhaa.github.io/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://anoopjhaa.me/) for complete background and contact.
 
 <br />
 <br />
