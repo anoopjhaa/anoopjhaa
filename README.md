@@ -5,8 +5,8 @@
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-- :school: I'm [Anoop Kumar](https://anoopjhaa.me/) currently a Third Year CSE student at <a href="https://cmrcet.ac.in/">@CMRCET  </a>
-- 🔭 I’m currently working on  **Problem Solving**
+- :school: I'm [Anoop Kumar](https://anoopjhaa.me/) currently a Final Year CSE student at <a href="https://cmrcet.ac.in/">@CMRCET  </a>
+- 🔭 I’m currently working as SDE Intern <a href="https://www.siemens.com/">@Siemens  </a>
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analysis with Python**
 - 🤔 I’m looking for help with Web Development 😭
